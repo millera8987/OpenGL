@@ -67,7 +67,7 @@ public class WireCube implements GLEventListener, KeyListener {
         pyramid(gl);
         quadBase(gl);
        
-        // bowlShape(gl);
+         bowlShape(gl);
         
         // **** END DRAWINGS ****
         
